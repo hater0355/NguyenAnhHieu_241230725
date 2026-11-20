@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\shared\\nguyenanhhieu_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\models\\qlnhasachcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|c:\\users\\admin\\onedrive\\desktop\\nguyenanhhieu_241230725\\nguyenanhhieu_241230725\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85B88D-C67E-474F-8E53-D4B802C8F062}|NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725.csproj|solutionrelative:nguyenanhhieu_241230725\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T14:18:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T14:08:00.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T14:07:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Program.cs",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T13:58:12.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\appsettings.json",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-20T13:56:34.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLNhaSachContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Models\\QLNhaSachContext.cs",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Models\\QLNhaSachContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Models\\QLNhaSachContext.cs",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Models\\QLNhaSachContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T13:56:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:54:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:54:06.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguyenAnhHieu_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Footer.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Footer.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:51:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguyenAnhHieu_MainContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_MainContent.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_MainContent.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_MainContent.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_MainContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:51:26.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NguyenAnhHieu_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Header.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Header.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Header.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Header.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:51:09.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NguyenAnhHieu_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\NguyenAnhHieu_241230725\\NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Layout.cshtml",
+              "RelativeToolTip": "NguyenAnhHieu_241230725\\Views\\Shared\\NguyenAnhHieu_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T13:50:52.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

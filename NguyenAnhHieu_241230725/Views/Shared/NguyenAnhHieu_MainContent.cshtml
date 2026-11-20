@@ -1,0 +1,26 @@
+﻿
+<!-- Begin Main Content -->
+<main class="main">
+    <div class="container">
+        <div class="banner"><img src="images/banner.jpg" alt="Banner" /></div>
+           @model IEnumerable<NguyenAnhHieu_241230725.Models.Sach>
+        <div class="section-head">
+            <h3>@(ViewData["Title"])</h3>)
+            <a asp-controller="Sach" asp-action="Create" >Thêm sách mới</a>
+        </div>
+        <div class="grid">
+            @foreach (var sach in Model)
+            {
+                <div class="book-card">
+                    <a href="#"><img src="@Url.Content(""~/images/" + sach.AnhBia)" alt="@sach.TenSach" /></a>
+                    <a> <h2>@sach.TenSach</h2> 
+                        <div class= "book_foot"></div>
+                            <span class="price">@sach.Gia</span>
+                            <button class="btn-buy">Thêm vào giỏ</button>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</main>
+<!-- End Main Content -->
